@@ -45,9 +45,9 @@ Este repositório contém os materiais, códigos e anotações referentes à dis
 ### 📢 Contato
 Se tiver dúvidas ou sugestões, fique à vontade para abrir uma issue ou entrar em contato.  
 
-📧 **Email:** _wisleycesar032@gmail.com_  
-🔰 **GitHub:** [wisley-cesar](https://github.com/wisley-cesar)  
-
+- 📧 **Email:** _wisleycesar032@gmail.com_  
+- 🔰 **GitHub:** [wisley-cesar](https://github.com/wisley-cesar)  
+- 🔗 LinkedIn: [Wisley César](https://www.linkedin.com/in/wisley-césar)
 ---
 ![LOGO IF GOIANO Morrinhos 2017 site meteorologia](https://github.com/user-attachments/assets/26808da4-76ff-415d-b1d2-28ab90d8612a)
 
