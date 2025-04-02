@@ -45,7 +45,7 @@ Este repositório contém os materiais, códigos e anotações referentes à dis
 ### 📢 Contato
 Se tiver dúvidas ou sugestões, fique à vontade para abrir uma issue ou entrar em contato.  
 
-📧 **Email:** _seuemail@ifgoiano.edu.br_  
+📧 **Email:** _wisleycesar032@gmail.com_  
 🔰 **GitHub:** [wisley-cesar](https://github.com/wisley-cesar)  
 
 ---
