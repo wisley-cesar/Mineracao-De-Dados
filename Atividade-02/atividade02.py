@@ -7,3 +7,5 @@ df = pd.read_csv('C1-Data Collection/C1-L1-Collect Data From Files-Data/ds_salar
 df.to_csv("ds_trans_salario.csv", sep=';', decimal=',', encoding='utf-8', index=False)
 
 print("Arquivo exportado com sucesso!")
+
+
