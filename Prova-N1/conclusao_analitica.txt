@@ -1,0 +1,14 @@
+
+CONCLUSÃO ANALÍTICA:
+
+1. Maior média de retorno: PETR4 com 2.58% vs 1.83%
+
+2. Menor variabilidade (risco): VALE3 com desvio padrão de 10.63% vs 13.08%
+
+3. Adequação para investidores:
+   - Para investidor conservador: VALE3 é mais adequada por apresentar menor variabilidade
+   - Para investidor arrojado: PETR4 é mais adequada por apresentar maior retorno médio
+
+4. Teste estatístico:
+   - Valor-p = 0.6255
+   - Não há evidência estatística suficiente para afirmar que os retornos médios são diferentes
